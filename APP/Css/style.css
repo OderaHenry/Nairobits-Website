@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    position: sticky;
+    left: 90px;
+    background-color: skyblue;
+    padding: 20px 20px;
+
+
+}
+.logo{
+    height: 10px;
+    width: 10px;
+    position: relative;
+    right: 60px;
+    margin-bottom: 30px;
+
+}
+
+.tabs {
+    list-style: none;
+    display: flex;
+}
+
+.hm {
+    margin-left: 70px;
+    position: relative;
+    right: 20px;
+    color: blue;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.wwe {
+    margin-left: 70px;
+    position: relative;
+    right: 20px;
+    color: blue;
+    font-family: sans-serif;
+    font-size: 18px;
+
+
+
+}
+
+.wwd {
+    margin-left: 70px;
+    position: relative;
+    right: 20px;
+    color: blue;
+    font-family: sans-serif;
+    font-size: 18px;
+
+
+
+}
+
+.ju {
+    margin-left: 70px;
+    position: relative;
+    right: 20px;
+    color: blue;
+    font-family: sans-serif;
+    font-size: 18px;
+
+
+
+}
+
+.oc {
+    margin-left: 70px;
+    position: relative;
+    right: 20px;
+    color: blue;
+    font-family: sans-serif;
+    font-size: 18px;
+
+
+
+}
+
+.Dnbtn {
+    margin-left: 50px;
+    position: relative;
+    left: 5px;
+    background-color: orange;
+    border-radius: 10px;
+    height: 40px;
+    width: 90px;
+}
+
+.Apbtn {
+    margin-left: 30px;
+    position: relative;
+    left: -3px;
+    /* background-color: springgreen; */
+    border-radius: 10px;
+    height: 40px;
+    width: 90px;
+}
+
+.sicon {
+    height: 30px;
+    margin-left: 20px;
+}
+
+.ficon{
+    margin-left: 20px;
+}
+
+.video{
+    display: flex;
+}
+
+.nb{
+    color:blue;
+    font-family: sans-serif;
+    margin-left: 150px;
+}
+
+.prg{
+    margin-left: 150px;
+    font-size: large;
+}
+
+.oi{
+    color: orange;
+    font-family: sans-serif;
+    margin:600px;
+    margin-top: 100px;
+
+}
